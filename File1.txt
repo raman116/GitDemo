@@ -7,3 +7,5 @@ bug 1
 
 bug 2
 git remote demo
+
+change after WI:6
