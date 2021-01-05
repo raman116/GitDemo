@@ -8,4 +8,8 @@ bug 1
 bug 2
 git remote demo
 
+<<<<<<< HEAD
 change after WI:6
+=======
+again change from local to remote
+>>>>>>> 5225937 (WI:5 CHANGE FROM LOCAL TO REMOTE)
